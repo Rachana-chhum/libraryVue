@@ -1,4 +1,5 @@
 <template>
+  
   <div class="member-card bg-white shadow-lg rounded-xl p-6 mb-4 hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-gray-200">
     <div class="flex items-start justify-between">
       <div class="flex-1">
